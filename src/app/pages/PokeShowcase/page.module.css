@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    width: 60%;
+}
+.pokeinput{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-left: 20px;
+}
+.pokeinput input{
+    font-size: 1.5rem;
+}
+.pokeinfo{
+    transition: 1s ease;
+}
